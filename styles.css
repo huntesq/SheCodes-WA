@@ -1,0 +1,46 @@
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 185px;
+}
+
+.WedCard {
+  position: relative;
+  right: -250px;
+  top: -255px;
+}
+
+.ThurCard {
+  position: relative;
+  right: -500px;
+  top: -485px;
+}
+
+.FriCard {
+  position: relative;
+  right: -750px;
+  top: -715px;
+}
+
+.SatCard {
+  position: relative;
+  right: -1000px;
+  top: -945px;
+}
+
+.citySearch {
+  position: relative;
+  right: -400px;
+  padding-left: 50px;
+}
+
+.cityButton {
+  position: relative;
+  right: -400px;
+}
